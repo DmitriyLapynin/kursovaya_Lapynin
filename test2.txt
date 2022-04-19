@@ -1,0 +1,17 @@
+program a34553 (asdas, sf);
+const
+    Max=52;
+    Min = 12;
+var a, b, t:integer;
+c, d : bool;
+e, r : bool;
+begin
+    read(a);
+    repeat
+    begin
+        a := a - 1;
+        write(true and false)
+    end;
+    until a < 4;
+    write(a)
+end.
